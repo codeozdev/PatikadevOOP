@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/PatikadevOOP/PatikadevOOP.csproj",
-      "projectName": "PatikadevOOP",
-      "projectPath": "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/PatikadevOOP/PatikadevOOP.csproj",
+      "projectUniqueName": "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_01/Week04_01.csproj",
+      "projectName": "Week04_01",
+      "projectPath": "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_01/Week04_01.csproj",
       "packagesPath": "/home/ozudev/.nuget/packages/",
-      "outputPath": "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/PatikadevOOP/obj/",
+      "outputPath": "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ozudev/.nuget/NuGet/NuGet.Config"

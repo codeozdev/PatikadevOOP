@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatikadevOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2959c064bbe9ef7ea175efd1aebefd07d052ea26")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatikadevOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatikadevOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

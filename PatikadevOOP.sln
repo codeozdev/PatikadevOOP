@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikadevOOP", "PatikadevOOP\PatikadevOOP.csproj", "{68003437-80CE-4C81-815F-BBC7A0054A20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week04_01", "Week04_01\Week04_01.csproj", "{68003437-80CE-4C81-815F-BBC7A0054A20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
