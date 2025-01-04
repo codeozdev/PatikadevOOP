@@ -1,18 +1,18 @@
 ﻿// Patika Kütüphane
 
-var kitap1 = new KitaplarTablosu();
+var kitap1 = new KitaplarTablosu() {Ad = "Şeker Portakalı", YazarAdi = "José Mauro", YazarSoyadi = "De Vasconcelos", SayfaSayisi = 200, Yayinevi = "Can Yayınları"};
 kitap1.ShowInfo();
 var kitap2 = new KitaplarTablosu("Adı Aylin", "Ayşe", "Kulin", 398, "Remzi Kitabevi");
 kitap2.ShowInfo();
 
 class KitaplarTablosu
 {
-    private string Ad { get; set; }
-    private string YazarAdi { get; set; }
-    private string YazarSoyadi { get; set; }
-    private int SayfaSayisi { get; set; }
-    private string Yayinevi { get; set; }
-    private DateTime KayitTarihi { get; set; }
+    public string Ad { get; set; }
+    public string YazarAdi { get; set; }
+    public string YazarSoyadi { get; set; }
+    public int SayfaSayisi { get; set; }
+    public string Yayinevi { get; set; }
+    public DateTime KayitTarihi { get; set; }
 
     public KitaplarTablosu()
     {
