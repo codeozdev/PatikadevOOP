@@ -17,14 +17,14 @@
 
 var baby1 = new Baby();
 baby1.ShowInfo();
-var baby2 = new Baby("Ali", "Veli");
+var baby2 = new Baby("Banu", "Yıldız");
 baby2.ShowInfo();
 
 internal class Baby
 {
-    public DateTime BirthDate { get; set; }
-    public string Name { get; set; }
-    public string Surname { get; set; }
+    private DateTime BirthDate { get; set; }
+    private string Name { get; set; }
+    private string Surname { get; set; }
 
     public Baby()
     {
@@ -42,6 +42,6 @@ internal class Baby
 
     public void ShowInfo()
     {
-        Console.WriteLine($"Ad: {Name ?? "Bilinmiyor"}, Soyad: {Surname ?? "Bilinmiyor"}, Doğum Tarihi: {BirthDate}");
+        Console.WriteLine($"Ad: {Name ?? "Unknown"}, Soyad: {Surname ?? "Unknown"}, Birth Date: {BirthDate}");
     }
 }
