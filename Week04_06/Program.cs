@@ -45,7 +45,7 @@ internal class Dikdortgen : BaseGeometrikSekil
 
     public override double AlanHesapla()
     {
-        return Genislik * Yukseklik / 2;
+        return Genislik * Yukseklik;
     }
     
     public override void ShowInfo()
@@ -64,7 +64,7 @@ internal class DikUcgen : BaseGeometrikSekil
 
     public override double AlanHesapla()
     {
-        return Genislik * Yukseklik / 2;
+        return (Genislik * Yukseklik)/ 2;
     }
     
     public override void ShowInfo()
