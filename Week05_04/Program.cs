@@ -41,7 +41,7 @@ foreach (var film in films)
 }
 
 Console.WriteLine("Imdb puanı 4 ile 9 arasında olan filmler: ");
-foreach (var film in films.Where(f => f.ImdbPuani is >= 4.0 and <= 9.0))
+foreach (var film in films.Where(f => f.ImdbPuani is >= 4.0 and <= 9.0)) // where -> LINQ yapısıdır
 {
     Console.WriteLine($"IMDB Puanı: {film.ImdbPuani}, Film Adı: {film.FilmAdi}");
 }
