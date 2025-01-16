@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_01/Week04_01.csproj": {}
+    "C:\\Users\\ozude\\Masaüstü\\PatikadevOOP\\Week04_01\\Week04_01.csproj": {}
   },
   "projects": {
-    "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_01/Week04_01.csproj": {
+    "C:\\Users\\ozude\\Masaüstü\\PatikadevOOP\\Week04_01\\Week04_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_01/Week04_01.csproj",
+        "projectUniqueName": "C:\\Users\\ozude\\Masaüstü\\PatikadevOOP\\Week04_01\\Week04_01.csproj",
         "projectName": "Week04_01",
-        "projectPath": "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_01/Week04_01.csproj",
-        "packagesPath": "/home/ozudev/.nuget/packages/",
-        "outputPath": "/home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_01/obj/",
+        "projectPath": "C:\\Users\\ozude\\Masaüstü\\PatikadevOOP\\Week04_01\\Week04_01.csproj",
+        "packagesPath": "C:\\Users\\ozude\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozude\\Masaüstü\\PatikadevOOP\\Week04_01\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/ozudev/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ozude\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
