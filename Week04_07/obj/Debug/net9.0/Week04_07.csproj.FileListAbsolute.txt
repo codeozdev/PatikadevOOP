@@ -13,3 +13,18 @@
 /home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_07/obj/Debug/net9.0/Week04_07.pdb
 /home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_07/obj/Debug/net9.0/Week04_07.genruntimeconfig.cache
 /home/ozudev/Desktop/PATIKA DEV PROJELERİ/PatikadevOOP/Week04_07/obj/Debug/net9.0/ref/Week04_07.dll
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\bin\Debug\net9.0\Week04_07.exe
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\bin\Debug\net9.0\Week04_07.deps.json
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\bin\Debug\net9.0\Week04_07.runtimeconfig.json
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\bin\Debug\net9.0\Week04_07.dll
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\bin\Debug\net9.0\Week04_07.pdb
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\obj\Debug\net9.0\Week04_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\obj\Debug\net9.0\Week04_07.AssemblyInfoInputs.cache
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\obj\Debug\net9.0\Week04_07.AssemblyInfo.cs
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\obj\Debug\net9.0\Week04_07.csproj.CoreCompileInputs.cache
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\obj\Debug\net9.0\Week04_07.sourcelink.json
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\obj\Debug\net9.0\Week04_07.dll
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\obj\Debug\net9.0\refint\Week04_07.dll
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\obj\Debug\net9.0\Week04_07.pdb
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\obj\Debug\net9.0\Week04_07.genruntimeconfig.cache
+C:\Users\ozude\Masaüstü\PatikadevOOP\Week04_07\obj\Debug\net9.0\ref\Week04_07.dll
