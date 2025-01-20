@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ozudev/Desktop/PatikadevOOP/Week07_03/Week07_03.csproj": {}
+  },
+  "projects": {
+    "/home/ozudev/Desktop/PatikadevOOP/Week07_03/Week07_03.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ozudev/Desktop/PatikadevOOP/Week07_03/Week07_03.csproj",
+        "projectName": "Week07_03",
+        "projectPath": "/home/ozudev/Desktop/PatikadevOOP/Week07_03/Week07_03.csproj",
+        "packagesPath": "/home/ozudev/.nuget/packages/",
+        "outputPath": "/home/ozudev/Desktop/PatikadevOOP/Week07_03/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ozudev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ozudev/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
