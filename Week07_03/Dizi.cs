@@ -2,12 +2,12 @@ namespace Week07_03;
 
 public class Dizi
 {
-    public string? DiziAdi { get; set; }
-    public int YapimYili { get; set; }
-    public string? DiziTuru { get; set; }
-    public int YapimaBaslanmaYili { get; set; }
-    public List<string>? Yonetmenler { get; set; }
-    public string? Platform { get; set; }
+    public string? DiziAdi { get; }
+    private int YapimYili { get; }
+    public string? DiziTuru { get; }
+    private int YapimaBaslanmaYili { get; }
+    public List<string>? Yonetmenler { get; }
+    private string? Platform { get; }
 
     public Dizi(string? diziAdi, int yapimYili, string? diziTuru, int yapimaBaslanmaYili, List<string>? yonetmenler,
         string? platform)
