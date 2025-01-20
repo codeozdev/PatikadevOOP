@@ -1,0 +1,15 @@
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/obj/Debug/net9.0/Week07_02.GeneratedMSBuildEditorConfig.editorconfig
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/obj/Debug/net9.0/Week07_02.AssemblyInfoInputs.cache
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/obj/Debug/net9.0/Week07_02.AssemblyInfo.cs
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/obj/Debug/net9.0/Week07_02.csproj.CoreCompileInputs.cache
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/obj/Debug/net9.0/Week07_02.sourcelink.json
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/bin/Debug/net9.0/Week07_02
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/bin/Debug/net9.0/Week07_02.deps.json
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/bin/Debug/net9.0/Week07_02.runtimeconfig.json
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/bin/Debug/net9.0/Week07_02.dll
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/bin/Debug/net9.0/Week07_02.pdb
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/obj/Debug/net9.0/Week07_02.dll
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/obj/Debug/net9.0/refint/Week07_02.dll
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/obj/Debug/net9.0/Week07_02.pdb
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/obj/Debug/net9.0/Week07_02.genruntimeconfig.cache
+/home/ozudev/Desktop/PatikadevOOP/Week07_02/obj/Debug/net9.0/ref/Week07_02.dll
